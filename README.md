@@ -1,2 +1,2 @@
 # dyslexia-hashcode
-A codes of the features of our website
+Colection of all codes of the features of our website
